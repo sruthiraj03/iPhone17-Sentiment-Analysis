@@ -72,5 +72,4 @@ Battery performance and purchase experience appeared in both positive and negati
 - pandas, numpy
 
 ## Contributors
-Team 12B  
 Andrea Pan · Angie Pang · Carson Pimental · **Jaya Sruthi Raj Perikala**
